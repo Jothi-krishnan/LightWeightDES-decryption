@@ -25,5 +25,5 @@ the actual modules of the Light Weight DES.
  
  #Waveform
     This folder contains a file named ' simulation1.wcfg' which is the waveform obtained after the succesful compilation of the project.
-    In this Simulation the input, 64 bit hex numbers, cipher text (i.e ctext) and key ( i.e key) are 01c0c0fdfbd0deb0 and 1d6a5ae5516dfa93 respectively.
-    The output we got after 17 clock cycles(1 + 16 rounds) is de5895031b0dc891.
+    In this Simulation the input, 64 bit hex numbers, cipher text (i.e ctext) and key ( i.e key) are "01c0c0fdfbd0deb0" and "1d6a5ae5516dfa93" respectively.
+    The output we got after 17 clock cycles(1 + 16 rounds) is "de5895031b0dc891".
