@@ -11,6 +11,9 @@ This project was given to a group of 5 memebers for the course ECN 104 as Course
 5. Jasvinder Singh (20116040)
 
 There are 3 folders in this repository.
+
+
+
 #verilogcodes:
   This folder has all the verilog codes, that is 3 ".v" files including a testbench file. The files 'Main.v' and 'subkey-generator.v' are
 the actual modules of the Light Weight DES.
